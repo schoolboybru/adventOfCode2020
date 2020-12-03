@@ -1,4 +1,4 @@
-package day2
+package days
 
 import (
 	"fmt"
@@ -9,7 +9,7 @@ import (
 	"strings"
 )
 
-func ReadFile() {
+func ReadFileDay2() {
 	fileName := os.Args[1]
 
 	fileBytes, err := ioutil.ReadFile(fileName)
