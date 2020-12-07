@@ -17,6 +17,10 @@ func main() {
 
 	// Day 4
 	// use day_4_input.txt as arg
-	days.ReadFileDay4()
+	//days.ReadFileDay4()
+
+	// Day 6
+	// use day_6_input.txt as arg
+	days.ReadFileDay6()
 }
 
